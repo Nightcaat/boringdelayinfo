@@ -5,5 +5,6 @@
 	"id": "polsk.boring_delay_info",
 	"name": "Boring Delay Info",
 	"developer": "polsk",
-	"description": "booring"
+	"description": "Replaces 2.21 info messages with a boring alert",
+	"repository": "https://github.com/polskidevv/boringdelayinfo"
 }
